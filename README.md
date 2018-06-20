@@ -4,6 +4,11 @@
 ```sh
 $ curl https://sdk.cloud.google.com | bash
 ```
+or 
+
+```sh
+curl https://dl.google.com/dl/cloudsdk/release/install_google_cloud_sdk.bash | bash
+```
 
 ### restart the terminal
 ```sh
