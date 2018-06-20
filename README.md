@@ -19,3 +19,11 @@ $ source ~/.bash_profile
  export PATH="$HOME/google-cloud-sdk/bin:$PATH"
 ```
 ### verify that the path exist in your bash_profile
+
+```sh 
+$ echo $PATH
+```
+### if you are running pyenv, make sure you have a global python environrment setup. Otherwise, run the commanf below
+```sh
+$ pyenv global 2.7.13
+```
