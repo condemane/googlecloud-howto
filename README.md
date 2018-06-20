@@ -2,8 +2,7 @@
 
 ### Install Google Cloud SDK on a Mac
 ```sh
-$ curl https://dl.google.com/dl/cloudsdk/release/install_google_cloud_sdk.bash | bash
-
+$ curl https://sdk.cloud.google.com | bash
 ```
 
 ### restart the terminal
